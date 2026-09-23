@@ -1,6 +1,6 @@
 # ITL1_Einheit_1 <Maral BATCHULUUN>
 
-Klasse: <Klasse>
+Klasse: 4aAPC
 
 ## Setup
 
